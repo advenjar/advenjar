@@ -17,7 +17,8 @@ const Home: NextPage = () => {
       </main>
 
       <footer className="flex h-20 w-full items-center justify-center text-sm">
-        hi@advenjar.com
+        
+        <a href="mailto:hi@advenjar.com">hi@advenjar.com</a>
       </footer>
     </div>
   )
